@@ -1,0 +1,20 @@
+.sectionOne {
+    height: 100vh;
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectionTwo {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: maroon;
+}
